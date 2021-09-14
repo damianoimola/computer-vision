@@ -1,14 +1,3 @@
-# from google.colab import files
-# !pip install -q kaggle
-# # make a diectoryin which kajggle.json is stored
-# ! mkdir ~/.kaggle
-# ! cp kaggle.json ~/.kaggle/
-# ! chmod 600 ~/.kaggle/kaggle.json
-# # download the dataset inside colab folder
-# !kaggle datasets download -d alessiocorrado99/animals10
-# # unzip dataset
-# !unzip /content/animals10.zip
-
 import tensorflow as tf
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras import Model
