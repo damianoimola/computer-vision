@@ -3,7 +3,7 @@ This is a set of Computer Vision project
 
 - [image-classification-animal]() is a model trained from alessiocorrado99's dataset about animals on Kaggle, named "animals10",
 
-    If you run it in Google Colabe, be sure to make this steps, otherwise, skip this part
+    If you run it in **Google Colab**, be sure to make this steps, otherwise, skip this part
     ``` python
     from google.colab import files
     !pip install -q kaggle
